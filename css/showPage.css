@@ -1,0 +1,31 @@
+body {
+    /* background: url("../img/image7.jpg") no-repeat center center fixed; */
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	}
+
+.boton2{
+    border:0; 
+    border-radius:10px; 
+    background:white; 
+    color:black;
+}
+
+.boton2:hover{
+background: rgb(0, 0, 0);
+color:white;
+
+}
+
+form{
+    margin-top:20px;
+}
+
+input{
+    background:grey; 
+    color:black; 
+    border:0; 
+    border-radius:10px;
+}

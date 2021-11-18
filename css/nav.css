@@ -1,0 +1,35 @@
+
+*
+{
+    margin:0;padding:0;box-sizing:border-box;font-size:0;
+}
+
+nav ul{
+    position: fixed;
+    left: 100px;
+    right: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+            
+nav a{
+    text-decoration:none;
+    color:inherit;
+        font-size:14px;
+    } 
+nav li
+{
+    display:inline-block;
+    width:10%;
+    padding:5px 10px;
+    background-color:rgba(255, 6, 6, 0.164);
+    border:1px solid #000;
+    border-radius: 10px;
+    text-align:center;
+    color:#fff;
+}
+nav li:hover
+{
+    background-color:#fff;
+    color:#000;
+}

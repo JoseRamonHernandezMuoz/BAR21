@@ -1,0 +1,30 @@
+body {
+    background-image:url(../img/image5.jpg);
+	background-attachment: fixed;	
+	background-size: cover;
+    font-family: 'Roboto', sans-serif;
+	}
+.boton{
+    background: rgba(0, 0, 0, 0.322);
+    color:white;
+    border:0;
+    border-radius: 10px;
+}
+
+.container2{
+    left: 100px;
+    right: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.boton:hover
+{
+    background-color:#fff;
+    color:#000;
+}
+
+.card2{
+    margin-top:50px !important;
+}
+
+
